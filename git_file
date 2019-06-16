@@ -1,2 +1,5 @@
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+        Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+        Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+                                                                                    
+        git branch — creates a new branch from the current HEAD (working directory). ... git diff – — shows the difference of between the working directory and the given branch. git checkout – — checks out files from the given branch into the working directory. git merge — merges the given branch into the current branch. 
